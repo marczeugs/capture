@@ -1,3 +1,3 @@
-version=2
-downloadLink=https://github.com/marczeugs/capture/raw/master/releases/CaptureV2.jar
-info=Color selections + clicking checkboxes doesn't close popup menu
+version=1.2
+downloadLink=https://github.com/marczeugs/capture/raw/master/releases/CaptureV1.2.jar
+info=Take a screenshot by clicking at the icon + exit screenshot by clicking without moving the mouse
